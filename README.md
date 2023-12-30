@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <!--
-**KananAgrawal/KananAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KananAgrawal/KananAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🔭 I’m currently working on being a Full Stack Developer<br>👯 I’m looking to collaborate on any Web Development Project<br>🌱 I’m currently learning ReactJS and NExt.JS<br>💬 Ask me about Django<br>⚡ Fun fact : Turning caffeine into code for backend magic since 2005.
